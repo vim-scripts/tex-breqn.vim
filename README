@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4775
+
+LaTeX breqn package syntax highlighting support.
+
+Feature: use math rules to highlight dmath environment.
+
+git repo: https://github.com/xuhdev/tex-breqn.vim
